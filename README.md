@@ -27,7 +27,7 @@ Este projeto é uma simulação de um sistema bancário simples, desenvolvido em
 ---
 
 ## 📦 Estrutura de Classes
-
+```yaml
 br.com.dio
 │
 ├── Main.java # Classe principal com simulação
@@ -37,7 +37,7 @@ br.com.dio
 │ ├── CheckingAccount.java # Conta corrente
 │ └── SavingsAccount.java # Conta poupança com investimento
 └── Transaction.java # Histórico das transações
-
+````
 
 ---
 
